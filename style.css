@@ -1,0 +1,28 @@
+body {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  /* background-color: #fff; */
+  background-color: #1b1b2f
+}
+
+.container {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: 25% auto 25%;
+  padding: 10px;
+}
+
+
+#heading{
+  color: #fff;
+}
+
+
+#data{
+  color: #fff;
+}
